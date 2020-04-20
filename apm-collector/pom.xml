@@ -61,7 +61,7 @@
         <jetty.version>9.4.2.v20170220</jetty.version>
         <h2.version>1.4.196</h2.version>
         <jedis.version>2.9.0</jedis.version>
-        <zookeeper.version>3.4.10</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <elasticsearch.client.version>5.5.0</elasticsearch.client.version>
         <zipkin.version>2.9.1</zipkin.version>
         <shardingjdbc.version>2.0.3</shardingjdbc.version>
